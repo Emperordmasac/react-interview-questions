@@ -1,9 +1,11 @@
-import App from './scenes/question-1/App';
+// import Question1 from './scenes/question-1/App';
+import Question2 from './scenes/question-2/Question2';
 
 const MainApp = () => {
   return (
     <div className='page flex'>
-      <App />
+      {/* <Question1 /> */}
+      <Question2 />
     </div>
   );
 };

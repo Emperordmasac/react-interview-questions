@@ -4,7 +4,7 @@ import Cart from './components/cart';
 
 import './styles.css';
 
-const App = () => {
+const Question1 = () => {
   const [cartA, setCartA] = useState(cart1);
   const [cartB, setCartB] = useState(cart2);
 
@@ -32,4 +32,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Question1;

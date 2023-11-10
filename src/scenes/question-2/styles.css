@@ -1,0 +1,15 @@
+.tab_container {
+  display: flex;
+  gap: 15px;
+  font-size: 20px;
+}
+
+.tabs {
+  padding-bottom: 4px;
+  cursor: pointer;
+}
+
+.panel {
+  margin-top: 10px;
+  font-size: 20px
+}
